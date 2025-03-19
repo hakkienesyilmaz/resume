@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(90deg, #FFFED0    , #B3B292
+    );
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background: #B3B292
+    ;
+    padding: 10px 0;
+}
+
+.nav-links {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+.nav-links li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.nav-links a {
+    color: #5f6e44;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+.header-content {
+    text-align: center;
+    color: #556B2F;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #556B2F;
+    margin-top: 10px;
+}
+
+section {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    border-bottom: 2px solid #556B2F;
+    padding-bottom: 5px;
+    color: #556B2F;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #B3B292;
+    color: white;
+    margin-top: 20px;
+}
